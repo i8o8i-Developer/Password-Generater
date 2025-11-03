@@ -40,14 +40,69 @@
 5. 🔐 Set A Master Password For Encrypting Your Saved Passwords.
 6. 📄 Follow The On-Screen Instructions To Generate And Manage Passwords.
 
-## Credits
-
-This Password Generator Program Is The Creative Work Of i8o8i Developer. It Provides A User-Friendly Interface To Create Strong And Secure Passwords Effortlessly.
-
 ## License
 
 This Project Is Licensed Under The MIT License - See The [LICENSE](LICENSE) File For Details.
 
 ##  Acknowledgments
 
-Special Thanks To i8o8i Developer For Developing This Fantastic Password Generator Tool. 🙌
+## ⚠️ Disclaimer
+
+**Important Notice:**
+
+This Tool Is Designed For **Educational And Personal Use** To Help Create Strong Passwords. While It Implements Industry-Standard Encryption, It Should Not Be Considered A Professional Password Manager.
+
+### Security Considerations
+
+- 🔒 **Master Password** - Choose A Strong, Unique Master Password
+- 🔒 **File Security** - Protect Generated Files (Master.key, passwords.enc)
+- 🔒 **Clipboard** - Clear Clipboard After Use On Shared Systems
+- 🔒 **CSV Exports** - Handle Exported Files Securely
+- 🔒 **System Security** - Use On Trusted, Secure Systems
+
+### Known Limitations
+
+- Command-Line Interface Only
+- Local Storage (No Cloud Sync)
+- Basic Encryption (AES, Not Quantum-Resistant)
+- No Multi-User Support
+- Limited Password Policies
+
+### Use Cases
+
+✅ **Personal Use** - Generate Strong Passwords For Personal Accounts  
+✅ **Education** - Learn About Password Security And Cryptography  
+✅ **Development** - Create Test Passwords For Applications  
+✅ **Security Awareness** - Demonstrate Password Best Practices  
+
+❌ **Enterprise** - Not Suitable For Organizational Password Management  
+❌ **Production Systems** - Use Professional Password Managers Instead  
+❌ **Sensitive Data** - Not Designed For High-Security Requirements  
+
+---
+
+## 📞 Support & Contact
+
+- **GitHub:** [@i8o8i-Developer](https://github.com/i8o8i-Developer)
+- **Repository:** [Password-Generater](https://github.com/i8o8i-Developer/Password-Generater)
+- **Issues:** [Report Bug Or Request Feature](https://github.com/i8o8i-Developer/Password-Generater/issues)
+
+---
+
+## 🎉 Acknowledgments
+
+Special Thanks To:
+
+- The Open Source Community
+- Python Cryptography Libraries
+- All Contributors And Users
+
+---
+
+<div align="center">
+
+**Made With 🔐 By i8o8i-Developer**
+
+⭐ **Star This Repository If You Find It Useful!** ⭐
+
+</div>
